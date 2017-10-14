@@ -1,0 +1,5 @@
+Sejumlah kandidat alpha, beta,  release juga dirilis sebagai preview dan untuk
+pengujian sebelum rilis final dibuat. Meski ada jadwal kasar untuk setiap rilis,
+Hal ini sering terdorong kembali jika kodenya belum siap. Tim pengembang memantau keadaan
+kode dengan menjalankan unit test suite besar selama pengembangan, dan menggunakan
+BuildBot sistem integrasi.
